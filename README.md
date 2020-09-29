@@ -56,3 +56,7 @@ SELECT * FROM customers;
 9. How much was the total cost for each order?
 10. How much has each customer spent in total?
 11. How much has each customer spent in total? Customers who have spent $0 should still show up in the table. It should say 0, not NULL (research coalesce).
+
+
+
+asdfasf
